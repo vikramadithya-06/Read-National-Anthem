@@ -1,0 +1,85 @@
+body {
+ scroll-behavior: smooth;
+ border: 10px inset coral;
+ height: 190vh;
+}
+
+.Container { 
+ display: block;
+ float: right;
+ text-align: center;
+ scroll-behavior: smooth;
+ margin: 0px;
+ padding: 0px;
+ height: 190vh;
+ width: 73%;
+ background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWhySt4TcbC5ueDE0xk24WvX6ORuDcRXIvQ&s');
+ background-size: 100% 100%;
+ background-repeat: no-repeat;
+ background-position:  right;   
+}
+
+h1 {
+ font-size: 64px;
+ text-shadow: -2px -2px 0px white
+              -2px 2px 0px white
+              2px -2px 0px white
+              2px 2px 0px white;
+}
+
+h4 {
+ font-size: 49px;
+ text-shadow: -2px -2px 0px white;
+}
+
+h5 {
+ font-size: 39px;
+}
+
+.sidebar {
+ padding: 0px;
+ display: block;
+ float: left;
+ width: 27%;
+ height: 190vh; 
+ text-align: center;
+ font-size: 40px;
+ margin: 0px;
+ background-image: url(CaptureIndiaFlag.jpg);
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ background-position: center;
+ box-shadow: 4px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+.sidebar a {
+ color: black ;
+}
+
+.sidebar a:visited {
+ color: black;
+}
+ 
+.sidebar a:hover {
+ background-color: white;
+ 
+}
+
+.sidebar a.current {
+ background-color: yellow;
+ color: orange;
+}
+
+.sidebar h5 {
+ margin: 0;
+ padding: 15px 0;
+}
+
+.size {
+ font-size: 39px;
+}
+
+
+
+
+
