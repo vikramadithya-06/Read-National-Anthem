@@ -61,13 +61,8 @@ h5 {
 }
  
 .sidebar a:hover {
- background-color: white;
+ background-color: orange;
  
-}
-
-.sidebar a.current {
- background-color: yellow;
- color: orange;
 }
 
 .sidebar h5 {
