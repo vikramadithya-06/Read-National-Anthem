@@ -1,7 +1,10 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
- scroll-behavior: smooth;
  border: 10px inset coral;
- height: 190vh;
+ height: 95vh;
 }
 
 .Container { 
@@ -48,8 +51,7 @@ h5 {
  background-image: url(Images/CaptureIndiaFlag.jpg);
  background-repeat: no-repeat;
  background-size: 100% 100%;
- background-position: center;
- box-shadow: 4px 0px 8px rgba(0, 0, 0, 0.3);
+ background-position: left;
 }
 
 .sidebar a {
@@ -61,18 +63,14 @@ h5 {
 }
  
 .sidebar a:hover {
- background-color: orange;
+ background-color: black;
  
-}
-
-.sidebar h5 {
- margin: 0;
- padding: 15px 0;
 }
 
 .size {
  font-size: 39px;
 }
+
 
 
 
