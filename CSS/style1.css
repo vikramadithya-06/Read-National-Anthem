@@ -11,7 +11,7 @@ body {
  scroll-behavior: smooth;
  margin: 0px;
  padding: 0px;
- height: 190vh;
+ height: 95vh;
  width: 73%;
  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWhySt4TcbC5ueDE0xk24WvX6ORuDcRXIvQ&s');
  background-size: 100% 100%;
@@ -41,11 +41,11 @@ h5 {
  display: block;
  float: left;
  width: 27%;
- height: 190vh; 
+ height: 95vh; 
  text-align: center;
  font-size: 40px;
  margin: 0px;
- background-image: url(Images/CaptureIndiaFlag.JPG);
+ background-image: url(Images/CaptureIndiaFlag.jpg);
  background-repeat: no-repeat;
  background-size: 100% 100%;
  background-position: center;
@@ -73,5 +73,6 @@ h5 {
 .size {
  font-size: 39px;
 }
+
 
 
