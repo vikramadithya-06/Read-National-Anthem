@@ -64,12 +64,14 @@ h5 {
 }
  
 .sidebar a:hover {
- background-color: black;
+ color: orange;
+ font-size: 49px;
  }
 
 .size {
  font-size: 39px;
 }
+
 
 
 
