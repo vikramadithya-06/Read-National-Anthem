@@ -48,7 +48,7 @@ h5 {
  text-align: center;
  font-size: 40px;
  margin: 0px;
- background-image: url('../Images/CaptureIndiaFlag');
+ background-image: url('../Images/CaptureIndiaFlag.jpg');
  background-repeat: no-repeat;
  background-size: 100% 100%;
  background-position: left;
@@ -69,6 +69,7 @@ h5 {
 .size {
  font-size: 39px;
 }
+
 
 
 
