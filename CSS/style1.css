@@ -100,11 +100,21 @@ p {
     background-position:  right;
     overflow: scroll;
   }
+  .text a {
+    color: black;
+  }
+  .text a:visited {
+    color: black;
+  }
+  .text a:hover {
+    font-size: 25px;
+  }  
 }
 
 @media(min-width:769px) {
   .text {display: none;}
 }
+
 
 
 
