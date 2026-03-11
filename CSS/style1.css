@@ -85,7 +85,7 @@ p {
     display: none;
   }
   .Container {
-    diplay: none;
+    display: none;
   }
   .text {
     display: block;
@@ -101,6 +101,7 @@ p {
     overflow: scroll;
   }
 }
+
 
 
 
