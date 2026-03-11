@@ -81,16 +81,27 @@ p {
   h5 {font-size: 20px;}
   p {font-size: 20px;}
   body {border: 4px inset coral;}
-  .sidebar a:hover {font-size: 25px;}
   .sidebar {
-    background-size: cover;
-    text-align: justify;
+    display: none;
   }
   .Container {
-    background-size: cover;
-    text-align: justify;
+    diplay: none;
+  }
+  .text {
+    display: block;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWhySt4TcbC5ueDE0xk24WvX6ORuDcRXIvQ&s');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position:  right;
+    overflow: scroll;
   }
 }
+
 
 
 
