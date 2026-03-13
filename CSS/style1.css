@@ -111,6 +111,7 @@ p {
   }  
   .menu {
     display: block;
+    align-items: left;
   }
 }
 
@@ -118,3 +119,4 @@ p {
   .text {display: none;}
   .menu {display: none;}
 }
+
