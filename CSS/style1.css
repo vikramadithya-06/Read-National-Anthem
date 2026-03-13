@@ -84,8 +84,8 @@ p {
   .sidebar {
     display: none;
   }
-  .Container {
-    display: none !important;
+  .content {
+    display: none;
   }
   .text {
     display: block;
@@ -118,6 +118,7 @@ p {
   .text {display: none;}
   .menu {display: none;}
 }
+
 
 
 
