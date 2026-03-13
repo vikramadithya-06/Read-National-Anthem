@@ -109,11 +109,16 @@ p {
   .text a:hover {
     font-size: 25px;
   }  
+  .menu {
+    align-items: left;
+  }
 }
 
 @media(min-width:769px) {
   .text {display: none;}
+  .menu {display: none;}
 }
+
 
 
 
