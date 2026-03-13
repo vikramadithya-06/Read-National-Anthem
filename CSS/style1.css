@@ -84,7 +84,7 @@ p {
   .sidebar {
     display: none;
   }
-  .content {
+  .Container {
     display: none;
   }
   .text {
@@ -118,16 +118,3 @@ p {
   .text {display: none;}
   .menu {display: none;}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
