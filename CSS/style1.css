@@ -110,6 +110,7 @@ p {
     font-size: 25px;
   }  
   .menu {
+    display: block;
     align-items: left;
   }
 }
@@ -118,6 +119,7 @@ p {
   .text {display: none;}
   .menu {display: none;}
 }
+
 
 
 
