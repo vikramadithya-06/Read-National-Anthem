@@ -81,13 +81,8 @@ p {
   h5 {font-size: 20px;}
   p {font-size: 20px;}
   body {border: 4px inset coral;}
-  .sidebar {
-    display: none;
-  }
+  .sidebar {display: none;}
   .Container {
-    display: none;
-  }
-  .text {
     display: block;
     text-align: center;
     margin: 0px;
@@ -116,7 +111,6 @@ p {
 }
 
 @media(min-width:769px) {
-  .text {display: none;}
   .menu {display: none;}
 }
 
