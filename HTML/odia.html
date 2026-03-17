@@ -33,12 +33,13 @@
     </section>
     <section class="Container">
       <section class="menu-button">
+        
         <svg width="30" height="30">
-          <line x1="0" y1="5" x2="30" y2="5" stroke="black" stroke-width="3">
-          </line>
+          <line x1="0" y1="5" x2="30" y2="5" stroke="black" stroke-width="3"></line>
           <line x1="0" y1="15" x2="30" y2="15" stroke="black" stroke-width="3"></line>
           <line x1="0" y1="25" x2="30" y2="25" stroke="black" stroke-width="3"></line>
         </svg>
+        
       </section>
       <h1>ଭାରତର ଜାତୀୟ ସଙ୍ଗୀତ<br></h1>
       <h4 class="size">ଜନ ଗଣ ମନ ଅଧିନାୟକ ଜୟ ହେ<br>
@@ -54,6 +55,7 @@
           ଭାରତ ଭାଗ୍ୟ ବିଧାତା<br>
           ଜୟ ହେ, ଜୟ ହେ, ଜୟ ହେ<br>
           ଜୟ ଜୟ ଜୟ ଜୟ ହେ</h4>
+      
       <section class="sidebars">
         <h5><a href="../HTML/hindi.html">हिंदी में</a></h5>
         <h5><a href="../HTML/Pactice.html">In English</a></h5>
@@ -69,13 +71,14 @@
         <h5><a href="../HTML/urdu.html">اردو میں</a></h5>
       </section>
     </section>
+    
     <script>
       const menubutton = document.querySelector(".menu-button");
       const sidebars = document.querySelector(".sidebars");
 
       menubutton.addEventListener ("click", () => {
-        sidebar.classlist.toggle("active");
-      })
+        sidebars.classList.toggle("active");
+      });
     </script>
   </body>
 </html>
