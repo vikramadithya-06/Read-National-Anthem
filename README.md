@@ -1,2 +1,2 @@
 # Read-National-Anthem
-Contains National Anthem of India in 14 Regional Languages.  
+Contains National Anthem of India in 12 Regional Languages of India.  
