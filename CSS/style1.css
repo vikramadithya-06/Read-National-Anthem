@@ -126,7 +126,7 @@ p {
     text-align: center;
     font-size: 20px;
     margin: 0px;
-    background-image: url('../Images/CaptureIndiaFlag.jpg');
+    background-image: url('https://vikramadithya-06/Read-National-Anthem.github.io/Images/CaptureIndiaFlag.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     overflow: scroll;
@@ -136,9 +136,12 @@ p {
     color: white;
     transition: 0.3s;
   }
+  svg {
+    display: block;
+  }
 }
 
 @media(min-width:769px) {
-  .menu {display: none;}
   .sidebars {display: none;}
+  svg {display: none;}
 }
