@@ -50,7 +50,7 @@ h5 {
  text-align: center;
  font-size: 40px;
  margin: 0px;
- background-image: url('../Images/CaptureIndiaFlag.jpg');
+ background-image: url('https://vikramadithya-06/Read-National-Anthem.github.io/Images/CaptureIndiaFlag.jpg');
  background-repeat: no-repeat;
  background-size: 100% 100%;
  background-position: left;
@@ -133,7 +133,6 @@ p {
     position: fixed;
     top: 0;
     left: -100%;   /* hide it outside screen */
-    color: white;
     transition: 0.3s ease;
   }
   svg {
