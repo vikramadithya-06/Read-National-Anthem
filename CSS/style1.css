@@ -139,7 +139,7 @@ p {
   svg {
     display: block;
   }
-  menu-button {
+  .menu-button {
     display: block;
     cursor: pointer;
   }
