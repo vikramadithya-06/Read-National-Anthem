@@ -118,13 +118,6 @@ p {
   .text a:hover {
     font-size: 25px;
   }  
-  .menu {
-    display: block;
-    align-items: left;
-  }
-  #menu-toggle {
-    display: none;
-  }
   .sidebars {
     display: block;
     padding: 0px;
@@ -142,9 +135,6 @@ p {
     left: -100%;   /* hide it outside screen */
     color: white;
     transition: 0.3s;
-  }
-  #menu-toggle:checked ~ .sidebars {
-    left: 0;
   }
 }
 
