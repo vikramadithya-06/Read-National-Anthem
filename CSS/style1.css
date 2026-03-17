@@ -134,10 +134,17 @@ p {
     top: 0;
     left: -100%;   /* hide it outside screen */
     color: white;
-    transition: 0.3s;
+    transition: 0.3s ease;
   }
   svg {
     display: block;
+  }
+  menu-button {
+    display: block;
+    cursor: pointer;
+  }
+  .sidebars.active {
+    left: 0;
   }
 }
 
