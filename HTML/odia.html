@@ -82,11 +82,13 @@
     </section>
     
     <script>
-      const menuBtn = document.querySelectorAll(".menu-button");
-      const sidebar = document.querySelector(".sidebar");
+      const menuBtns = document.querySelectorAll(".menu-button");
+      const sidebar = document.querySelector(".sidebars");
 
-        menuBtn.addEventListener("click", () => {
+      menuBtns.forEach(btn => {
+        menuBtns.addEventListener("click", () => {
           sidebar.classList.toggle("active");
+        });
       });
     </script>
   </body>
