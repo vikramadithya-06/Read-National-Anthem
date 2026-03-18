@@ -1,3 +1,4 @@
+console.log("JS loaded");
 const menuBtns = document.querySelectorAll(".menu-btn");
 const sidebar = document.querySelector(".sidebar");
 
