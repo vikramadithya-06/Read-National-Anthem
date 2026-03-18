@@ -135,6 +135,12 @@ p {
     left: -100%;   /* hide it outside screen */
     transition: 0.3s ease;
   }
+  .sidebars a {
+    color: black;
+  }
+  .sidebars a:visited {
+    color: black;
+  }
   svg {
     display: block;
   }
