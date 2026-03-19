@@ -1,4 +1,4 @@
-const menuBtns = document.querySelectorAll(".menu-btn");
+const menuBtns = document.querySelectorAll(".menu-button");
 const sidebar = document.querySelector(".sidebars");
 
 if (menuBtns.length && sidebars) {
