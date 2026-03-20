@@ -145,7 +145,7 @@ p {
     display: block;
   }
   .menu-button {
-    display: block;
+    display: inline-block;
     cursor: pointer;
   }
   .sidebars.active {
