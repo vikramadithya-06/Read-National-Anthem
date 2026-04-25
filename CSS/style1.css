@@ -143,6 +143,7 @@ p {
   }
   svg {
     display: block;
+    align-items: justify;
   }
   .menu-button {
     display: inline-block;
