@@ -155,7 +155,8 @@ p {
   }
 
   .menu-button {
-    align-items: left !important;
+    display: flex;
+    justify-content: flex-start !important;
   }
 
   .sidebars.active {
