@@ -148,6 +148,7 @@ p {
   .menu-button {
     display: inline-block;
     cursor: pointer;
+    align-items: left; ! important 
   }
   .sidebars.active {
     left: 0;
