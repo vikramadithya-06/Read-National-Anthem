@@ -146,8 +146,6 @@ p {
     align-items: left;
   }
   .menu-button {
-    display: inline-block;
-    cursor: pointer;
     align-items: left; ! important 
   }
   .sidebars.active {
